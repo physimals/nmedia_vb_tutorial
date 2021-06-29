@@ -2,10 +2,9 @@ name: vbtutorial
 channels:
   - defaults
 dependencies:
-  - numpy
-  - python=3.7
-  - ipywidgets
   - notebook
-  - matplotlib
+  - ipywidgets
+  - numpy
   - pillow
+  - matplotlib
 prefix: C:\Users\jacka\.conda\envs\vbtutorial
