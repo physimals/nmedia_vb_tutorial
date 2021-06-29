@@ -7,4 +7,5 @@ dependencies:
   - ipywidgets
   - notebook
   - matplotlib
+  - pillow
 prefix: C:\Users\jacka\.conda\envs\vbtutorial
